@@ -1,0 +1,14 @@
+deb https://apt.bingner.com/ ./
+deb http://ib-soft.net/cydia/ ./
+deb http://apt.modmyi.com/ stable main
+deb http://cydia.zodttd.com/repo/cydia/ stable main
+deb https://repo.nepeta.me/ ./
+deb https://repo.dynastic.co/ ./
+deb http://repo.hackyouriphone.org/ ./
+deb http://apt.thebigboss.org/repofiles/cydia/ stable main
+deb https://repo.chariz.io/ ./
+deb http://sparkdev.me/ ./
+deb http://cydia.iphonecake.com/ ./
+deb http://beta.unlimapps.com/ ./
+deb https://apt.fouadraheb.com/ ./
+deb https://repo.packix.com/ ./
